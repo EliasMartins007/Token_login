@@ -1,5 +1,1 @@
-para debug  devo colocar break point  f5 e mudar no browser  de localhost:8080 para
-3000/login     (25/03/2021)
-f5 debugg
-f10 linha a linha 
-f11 entra na function
+
